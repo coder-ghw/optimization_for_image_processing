@@ -1,0 +1,2 @@
+/usr/bin/ar qc liboptimizers.a  CMakeFiles/optimizers.dir/src/gradient_descent.cpp.o CMakeFiles/optimizers.dir/src/adam_optimizer.cpp.o CMakeFiles/optimizers.dir/src/gauss_newton.cpp.o
+/usr/bin/ranlib liboptimizers.a

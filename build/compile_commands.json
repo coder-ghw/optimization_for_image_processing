@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/guohw/projects/optimization/build",
+  "command": "/usr/bin/c++   -I/home/guohw/projects/optimization/include -isystem /usr/include/opencv4    -std=c++11 -o CMakeFiles/train_kernel.dir/src/train_kernel.cpp.o -c /home/guohw/projects/optimization/src/train_kernel.cpp",
+  "file": "/home/guohw/projects/optimization/src/train_kernel.cpp"
+},
+{
+  "directory": "/home/guohw/projects/optimization/build",
+  "command": "/usr/bin/c++   -I/usr/include/opencv4 -I/home/guohw/projects/optimization/include    -std=c++11 -o CMakeFiles/optimizers.dir/src/gradient_descent.cpp.o -c /home/guohw/projects/optimization/src/gradient_descent.cpp",
+  "file": "/home/guohw/projects/optimization/src/gradient_descent.cpp"
+},
+{
+  "directory": "/home/guohw/projects/optimization/build",
+  "command": "/usr/bin/c++   -I/usr/include/opencv4 -I/home/guohw/projects/optimization/include    -std=c++11 -o CMakeFiles/optimizers.dir/src/adam_optimizer.cpp.o -c /home/guohw/projects/optimization/src/adam_optimizer.cpp",
+  "file": "/home/guohw/projects/optimization/src/adam_optimizer.cpp"
+},
+{
+  "directory": "/home/guohw/projects/optimization/build",
+  "command": "/usr/bin/c++   -I/usr/include/opencv4 -I/home/guohw/projects/optimization/include    -std=c++11 -o CMakeFiles/optimizers.dir/src/gauss_newton.cpp.o -c /home/guohw/projects/optimization/src/gauss_newton.cpp",
+  "file": "/home/guohw/projects/optimization/src/gauss_newton.cpp"
+}
+]

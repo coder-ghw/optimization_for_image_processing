@@ -1,0 +1,4 @@
+/home/guohw/projects/optimization/build/CMakeFiles/rebuild_cache.dir
+/home/guohw/projects/optimization/build/CMakeFiles/edit_cache.dir
+/home/guohw/projects/optimization/build/CMakeFiles/train_kernel.dir
+/home/guohw/projects/optimization/build/CMakeFiles/optimizers.dir

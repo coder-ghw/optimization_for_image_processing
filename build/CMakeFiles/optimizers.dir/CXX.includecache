@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/adam_optimizer.h
+vector
+-
+
+../include/gauss_newton.h
+vector
+-
+
+../include/gradient_descent.h
+vector
+-
+
+/home/guohw/projects/optimization/src/adam_optimizer.cpp
+adam_optimizer.h
+/home/guohw/projects/optimization/src/adam_optimizer.h
+cmath
+-
+iostream
+-
+
+/home/guohw/projects/optimization/src/gauss_newton.cpp
+gauss_newton.h
+/home/guohw/projects/optimization/src/gauss_newton.h
+cmath
+-
+iostream
+-
+algorithm
+-
+
+/home/guohw/projects/optimization/src/gradient_descent.cpp
+gradient_descent.h
+/home/guohw/projects/optimization/src/gradient_descent.h
+cmath
+-
+iostream
+-
+
